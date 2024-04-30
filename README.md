@@ -44,3 +44,6 @@ To run the tests, execute: `npm test`
 - Root path returns Hello World: Ensures the root path correctly returns a 200 status and the text "Hello World"
 
 - Data path checks: Verifies that the /data path returns a 200 status and the response is an object with a time field stamped by middleware
+
+## UML 
+![UML Diagram](./img/uml.png)
